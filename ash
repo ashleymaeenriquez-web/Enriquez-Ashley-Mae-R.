@@ -116,7 +116,7 @@ while True:
         question_number = question_number + 1
 
     # Calculate results
-    total_questions = len(questions)
+    total_questions = 10
     percentage = (score / total_questions) * 100
 
     print("\n===================================")
